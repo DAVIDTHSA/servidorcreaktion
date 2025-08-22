@@ -145,3 +145,12 @@
 [22Aug2025 14:40:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
 [22Aug2025 14:40:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
 [22Aug2025 14:40:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[22Aug2025 14:49:40.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeividGM11[/127.3.63.141:59169] logged in with entity id 4 at (-90.5, 72.0, -179.5)
+[22Aug2025 14:49:40.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeividGM11 joined the game
+[22Aug2025 14:50:08.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeividGM11 lost connection: Disconnected
+[22Aug2025 14:50:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeividGM11 left the game
+[22Aug2025 14:50:46.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DeividGM11[/127.3.63.141:42781] logged in with entity id 315 at (-80.86681352091621, 72.0, -194.6042964487123)
+[22Aug2025 14:50:46.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeividGM11 joined the game
+[22Aug2025 14:50:57.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DeividGM11 lost connection: Disconnected
+[22Aug2025 14:50:57.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DeividGM11 left the game
+[22Aug2025 14:51:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Server empty for 60 seconds, pausing
